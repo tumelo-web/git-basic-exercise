@@ -1,0 +1,137 @@
+    1  Is
+    2  1s
+    3  1s /
+    4  pwd
+    5  1s /
+    6  1s/
+    7  pwd
+    8  mkdir learning_unix
+    9  1s
+   10  pwd
+   11  mkdir learning_unix 
+   12  1s
+   13  cd learning_unix
+   14  pwd
+   15  mkdir Outer_directory
+   16  cd Outer_directory
+   17  mkdir Innter_directory
+   18  cd Inner_directory
+   19  cd Inner_directory/
+   20  mkdir Inner_directory
+   21  cd Inner_directory
+   22  1s
+   23  1s /data
+   24  1s /etc/per1
+   25  1s /
+   26  Is /
+   27  pwd
+   28  mkdir learning_linux
+   29  1s
+   30  cd learning_linux
+   31  mkdir Outer_directory
+   32  cd Outer_directory
+   33  mkdir Inner_directory
+   34  cd Inner_directory
+   35  cd /
+   36  cd home
+   37  cd user
+   38  cd User
+   39  cd learning_linux
+   40  cd learning_linux/
+   41  mkdir learning_unix
+   42  mkdir learning_linux
+   43  cd /
+   44  pwd
+   45  cd ~
+   46  pwd
+   47  cd
+   48  pwd
+   49  1s -1
+   50  1s -R
+   51  1s -I
+   52  Is -I
+   53  Is -R
+   54  man cd
+   55  man man
+   56  man 1s
+   57  touch.exe 
+   58  cd
+   59  n
+   60  pwd
+   61  cd /c/Users/Tumelo/Desktop/task1.1
+   62  git checkout main
+   63  git checkout master
+   64  ls
+   65  git init
+   66  git add .
+   67  git status
+   68  git commit -m "first commit"
+   69  git remote add origin https://github.com/tumelo-web/level-1-coding-challenge.git
+   70  checkout main
+   71  checkout master
+   72  git checkout main
+   73  git checkout master
+   74  git pull https://github.com/tumelo-web/level-1-coding-challenge.git
+   75  git checkout -b task1
+   76  git push
+   77  git push --set-upstream origin task1
+   78  git checkout mmaster
+   79  git checkout main
+   80  git checkout master
+   81  git push -u origin task1
+   82  mkdir git-basic-eercises
+   83  cd git-basic-exercises
+   84  git cd git-basic-exercises
+   85  mkdir git-basic-exercises
+   86  cd git-basic-exercises
+   87  ls -a
+   88  git init
+   89  ls -a
+   90  git status
+   91  touch README.md
+   92  ls -a
+   93  git status
+   94  git add
+   95  git add README.md
+   96  git status
+   97  git commit -m "initial commit"
+   98  git log
+   99  q
+  100  nano README.md
+  101  cat README.md
+  102  git status
+  103  git add README.md
+  104  git status
+  105  git commit -m "second commit"
+  106  nano README.md
+  107  cat README.md
+  108  git status
+  109  git add README.md
+  110  git status
+  111  git commit -m "third commit"
+  112  git log
+  113  q
+  114  git checkout 95910408ed695281b845f5bb67f4f6971d87cec3
+  115  cat README.md
+  116  git checkout master
+  117  cat README.md
+  118  git branch
+  119  git branch milkshake-flavours
+  120  git branch
+  121  git checkout milkshake-flavours
+  122  git branch
+  123  nano milkshakes.md
+  124  git status
+  125  git add milkshakes.md
+  126  git status
+  127  git commit -m "added initial flavours"
+  128  git log
+  129  git checkout master
+  130  git log
+  131  q
+  132  git branch history
+  133  git checkout history
+  134  git log
+  135  q
+  136  git branch
+  137  history > history.txt
